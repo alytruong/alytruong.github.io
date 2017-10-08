@@ -55,15 +55,10 @@ h3 {
     color: #9F663A;
     font-size: larger;
 }
-.contentpic{
-    text-align: right;
-    position: absolute;
-    top: 200px;
-    right: 35px;
-}
 img {
+    float: right;
     border-radius: 50%;
-    width: 30%;
+    max-width: 100%;
     height: 60%;
 }
 .container {
