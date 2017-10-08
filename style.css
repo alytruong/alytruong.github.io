@@ -62,7 +62,9 @@ h3 {
     right: 35px;
 }
 img {
-    border-radius: 5px;
+    border-radius: 50%;
+    width: 30%;
+    height: 60%;
 }
 .container {
     padding:0;
