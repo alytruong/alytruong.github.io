@@ -235,7 +235,11 @@ button:focus,
     margin-bottom : 5px;
     color         : #bebece;
     }
-
+.center {
+    text-align    : center;
+    font-weight   : bold;
+    color         : #bebece;
+    }
 /*-----------------------------
  * NAVIGATION & HEADER STYLE
  *-------------------------------*/
